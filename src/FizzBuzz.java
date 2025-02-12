@@ -87,7 +87,6 @@ class FizzBuzz {
             if (!queue.isEmpty()) {
                 System.out.print(", ");
             }
-            Thread.sleep(1000);
         }
         System.out.println();
     }
